@@ -1,4 +1,4 @@
-package com.springauth.auth;
+package com.springauth.auth.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;
